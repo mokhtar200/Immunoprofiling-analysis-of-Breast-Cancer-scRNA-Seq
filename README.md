@@ -9,8 +9,6 @@ This project provides a comprehensive analysis pipeline for immunoprofiling of b
 
 ## Files:
 - `immunoProfiling_analysis.R`: The R script that contains the analysis pipeline.
-- `immune_marker_differential_expression.csv`: Differential expression results between immune cell populations.
-- `breast_cancer_immunoprofiling_seurat_obj.rds`: Saved Seurat object for future use.
 
 ## How to Run the Analysis:
 1. Download raw scRNA-Seq data from NCBI SRA (use the `fastq-dump` command).
